@@ -63,7 +63,7 @@
     min-width: 286px;
 }
 .mainn{
-    background-color:blue;
+    background-color: #f1f0ed;
     display: grid;
     flex-wrap: wrap;
     justify-content: center;
